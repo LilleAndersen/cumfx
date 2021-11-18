@@ -5,7 +5,12 @@
 ### About
 
 CumFX is a completely new JS library with only the groundworks laid.
-More stuff coming soon.
+This original idea came from me and a buddy. 
+I wanted to make a JavaScript Library with a funny name. 
+It also a side project Im going to use to better my JavaScript 
+knowledge and have fun at the same time.
+
+#### More stuff coming soon.
 
 Your mother is a testing bench.
 
