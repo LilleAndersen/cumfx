@@ -12,8 +12,6 @@ knowledge and have fun at the same time.
 
 #### More stuff coming soon.
 
-Your mother is a testing bench.
-
 ---
 
 ### How to import library
